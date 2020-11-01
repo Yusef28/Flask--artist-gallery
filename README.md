@@ -12,7 +12,7 @@ To have it run out of the box, you'll need to add your specific enviornment vari
 To install and develop on local machine:
 ```
 $ python3 -m venv venv # create virtual environment
-$ pip3 install -r requirements.rxr # installing all requirements recursively
+$ pip3 install -r requirements.txt # installing all requirements recursively
 $ python3 run.py flask_app/
 ```
 
